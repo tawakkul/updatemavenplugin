@@ -6,7 +6,7 @@ import java.util.Properties;
 import java.util.function.Consumer;
 
 /**
- * @author abu
+ * @author araxit
  */
 public class Shell {
     private String username;

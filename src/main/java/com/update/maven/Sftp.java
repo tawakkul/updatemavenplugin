@@ -5,6 +5,9 @@ import com.jcraft.jsch.*;
 import java.util.Properties;
 import java.util.function.Consumer;
 
+/**
+ * @author araxit
+ */
 public class Sftp {
     private String username;
     private String password;

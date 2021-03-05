@@ -16,7 +16,7 @@ import java.util.Date;
 import java.util.Vector;
 
 /**
- * @author huayu
+ * @author araxit
  */
 @Mojo(name="update",defaultPhase = LifecyclePhase.PACKAGE)
 public class Update extends AbstractMojo {
